@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para montar um roteiro, estruturar o conteúdo e refinar mi
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como podemos aprende sobre a linguagem de programação, e se aprofundar.
 
-[LINK PARA O E-BOOK AQUI](file:///C:/Users/maggi/Downloads/JavaScript-para-Iniciantes-Uma-Base-Solida.pdf)
+[LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
 Criar este e-book foi uma felicidade em poder ajudar a quem tem interesse na Linguagem.
